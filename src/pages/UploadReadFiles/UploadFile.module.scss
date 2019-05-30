@@ -1,0 +1,19 @@
+.inline{
+    width: 30%;
+    float: left;
+    background-color: #F3F3F3;
+    height: 800px;
+    > div{
+        padding: 20px;
+        margin: 15px 15px 15px 0;
+        cursor: pointer;
+    }
+}
+
+.selected{
+    background-color: #ffffff;
+    border-left: 8px solid #4077E4;
+}
+.tabContent{
+    margin: 20px;
+}

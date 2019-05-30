@@ -1,0 +1,14 @@
+.sidebar{
+    width: 30%;
+    padding: 10px;
+    background-color: #F3F3F3;
+    color: #000000;
+    height: 40px;
+    .title{
+        width: 30px;
+        float: left;
+    }
+    .upload{
+        float: right;
+    }
+}
